@@ -1,0 +1,4 @@
+interface:
+  display_name: "Input Cache Hit"
+  short_description: "Optimize LLM prompts for maximum input cache hit rates"
+  default_prompt: "Use $input-cache-hit to optimize my prompts for better input cache hit rates"
